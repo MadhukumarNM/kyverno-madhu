@@ -1,5 +1,4 @@
 resources:
-- disallow-add-capabilities.yaml
 - restrict-sysctls.yaml
 
 patches:
